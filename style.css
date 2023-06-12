@@ -72,16 +72,15 @@ h1 {
     flex-wrap: wrap;
 }
 
-.about-col-1 {
+.about-me {
     flex-basis: 35%;
 }
 
-.about-col-1 img{
+.about-me img{
     width: 100%;
-    border-radius: 100%;
 }
 
-.about-col-2 {
+.about-col1 {
     flex-basis: 60%;
 }
 
